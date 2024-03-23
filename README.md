@@ -1,16 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5WunfJN-)
+# Software Engineering Principles
+This course covers topics in software engineering, designed to amalgamate fundamental concepts and real-life application, ensuring a comprehensive understanding and hands-on experience in various aspects of the field. Projects included range from RESTful systems and mobile applications to health monitoring and HVAC systems. These projects not only reflect the latest industry trends but also encapsulate a broad spectrum of software engineering principles including quality assurance, tiered architecture, API design, and more, with an emphasis on self-guided learning in programming across different languages. The course also aims to foster proficiency in agile development, continuous integration, modular design, and other key areas, utilizing open-source projects for practical learning. Prepare to dive into a hands-on class that not only covers the essentials of software engineering but also prepares you for the complexities of developing high-quality, multi-platform software systems.
 
-### Write Function to multiply matrices
-
-### Step 1:
-Write an empty function that its input are two matrices (A and B) and its output is the multiplication of A and B (C = A.B)
-
-### Step 2:
-Write test examples that will confirm your implementation based on the function defined in Step 1
-This includes wrong inputs, error conditions and correct output
-
-### Step 3:
-Write the details of the function
-
-### Step 4:
-Run GitHub Actions
+### Repository Highlights
